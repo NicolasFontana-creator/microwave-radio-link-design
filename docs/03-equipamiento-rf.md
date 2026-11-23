@@ -1,6 +1,8 @@
 # Equipamiento y arquitectura de comunicaciones
 
-![Arquitectura digital entre las dos estaciones](../assets/diagramas/arquitectura-del-enlace.svg)
+![Dos nodos IP-20N con tarjeta RIC-D, cable Ethernet, RFU-D y antena SC1-220, unidos por un vano con dos zonas de Fresnel.](../assets/diagramas/arquitectura-del-enlace.svg)
+
+Leé el esquema desde la IDU de Villa Fontana hasta la IDU de Aldea María Luisa. La tarjeta RIC-D conecta cada nodo de acceso por Ethernet con su RFU-D. Entre las antenas SC1-220, la línea discontinua indica la línea de vista. Las flechas r₁ y r₂ indican los radios hasta los límites de la primera y segunda zona de Fresnel en el centro del salto. Es un esquema conceptual sin escala.
 
 | Elemento seleccionado | Función | Condición de diseño |
 |---|---|---|

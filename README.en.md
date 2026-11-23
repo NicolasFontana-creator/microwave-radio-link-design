@@ -14,7 +14,9 @@ The proposed system uses a Ceragon IP-20N with a RIC-D interface, RFU-D and 0.30
 
 The analytical case yields −41.72 dBm received power and 27.78 dB fade margin. The final worksheet includes 6.02 dB of obstruction loss and yields −47.68 dBm and 21.82 dB. The adopted profile and the appendix use different path lengths. Final clearance, the direct-mount kit and the 99.99% availability target remain open engineering questions.
 
-![Proposed architecture at both sites](assets/diagramas/arquitectura-del-enlace.svg)
+![Two IP-20N access nodes with RIC-D cards, Ethernet cables, RFU-D radios and SC1-220 antennas. Two Fresnel zones surround the line of sight.](assets/diagramas/arquitectura-del-enlace.svg)
+
+Follow the diagram from the Villa Fontana IDU to the Aldea María Luisa IDU. The RIC-D card connects each access node to its RFU-D over Ethernet. Between the SC1-220 antennas, the dashed line marks the line of sight. The arrows r₁ and r₂ show the radii to the first and second Fresnel boundaries at mid-path. The diagram is schematic and drawn without scale.
 
 ## Technical documentation (Spanish)
 
