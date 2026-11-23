@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 230" role="img" aria-labelledby="title desc">
+  <title id="title">128-QAM · 28 MHz</title>
+  <desc id="desc">A: −41.72 dBm. B: −47.68 dBm. BER 10⁻⁶: −69.5 dBm.</desc>
+  <rect width="600" height="230" rx="12" fill="#122238"/>
+  <g stroke="#526578"><path d="M100 52v112m120-112v112m120-112v112m120-112v112m120-112v112"/></g>
+  <path d="M166 47v118" stroke="#ffcc78" stroke-width="3" stroke-dasharray="6 4"/>
+  <g fill="none" stroke="#72e1ef" stroke-width="7"><path d="M166 80h333.36M166 131h261.84"/></g>
+  <g fill="#72e1ef"><circle cx="499.36" cy="80" r="7"/><circle cx="427.84" cy="131" r="7"/></g>
+  <g font-family="sans-serif" font-size="19" fill="#e7f0fb">
+    <text x="38" y="86">A</text><text x="38" y="137">B</text>
+    <text x="505" y="72">−41.72</text><text x="434" y="123">−47.68</text>
+    <text x="166" y="30" text-anchor="middle" fill="#ffcc78">−69.5 dBm</text>
+    <g text-anchor="middle"><text x="100" y="188">−75</text><text x="220" y="188">−65</text><text x="340" y="188">−55</text><text x="460" y="188">−45</text><text x="580" y="188">−35</text><text x="340" y="217">Pᵣₓ (dBm)</text></g>
+  </g>
+</svg>
